@@ -7,6 +7,7 @@ Online resources
  * [Design Pattern](http://www.oodesign.com/)<br>
  * [Highscalability](http://highscalability.com/)<br>
  * [techbetter wallmart](http://www.techbetter.com/tag/developers-corner/)<br>
+ * [transaction across datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
 
 #### Data Structure
  * [hiringlibrary](http://www.hiringlibrary.com/)<br>
